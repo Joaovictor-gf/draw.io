@@ -1,0 +1,150 @@
+<mxfile host="app.diagrams.net" modified="2024-06-28T20:38:41.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="cE9MknAa247VFqiBcQzD" version="24.6.4" type="github">
+  <diagram name="Página-1" id="j4Wvm1hethipR3gD90KR">
+    <mxGraphModel dx="2441" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Pasta de Licitações" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="44" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-729" y="184" />
+              <mxPoint x="-1045" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3" target="PNdbc9yCol_e83TEmmqa-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="PNdbc9yCol_e83TEmmqa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="PNdbc9yCol_e83TEmmqa-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="PNdbc9yCol_e83TEmmqa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3" target="PNdbc9yCol_e83TEmmqa-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3" target="PNdbc9yCol_e83TEmmqa-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-641" y="184" />
+              <mxPoint x="-325" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="Licitação em andamento" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-729" y="104" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Apêndice I - Especificação&#xa;de Material" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1130" y="241" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-20" target="PNdbc9yCol_e83TEmmqa-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-20" value="Pesquisa de Preços" style="rounded=0;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="241" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-26" value="Apêndice II - Valor da&#xa;mediana - Painel de Preços" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="241" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-29" value="Mapa Comparativo&#xa;de Preços" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="241" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-32" value="Deprecated" style="rounded=0;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="44" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-34" value="Apêndice III - Imagens&#xa;dos produtos" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="241" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-37" value="Arquivos Assinados" style="rounded=0;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="109" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-40" target="PNdbc9yCol_e83TEmmqa-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-40" target="PNdbc9yCol_e83TEmmqa-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-40" target="PNdbc9yCol_e83TEmmqa-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-40" target="PNdbc9yCol_e83TEmmqa-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-40" target="PNdbc9yCol_e83TEmmqa-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-40" value="Item_XX_Nome" style="rounded=0;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="353" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-50" value="Deprecated" style="rounded=0;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="353" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-52" target="PNdbc9yCol_e83TEmmqa-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-52" target="PNdbc9yCol_e83TEmmqa-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-52" value="Pesquisa de Mercado" style="rounded=0;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="487" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-56" value="catmat NOME" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="487" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-58" value="Pesquisa de mercado" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="487" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-60" value="Arquivos exportados&#xa;Painel de Preço" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="487" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-61" value="Screenshot Painel de Preços&#xa;Captura de Valor da Mediana" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="487" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.559;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="PNdbc9yCol_e83TEmmqa-40" target="PNdbc9yCol_e83TEmmqa-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-73" value="Sites NOME" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="644" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-74" value="Screenshot Sites" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="644" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-77" value="Legenda" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-611" y="564" width="371" height="220" as="geometry">
+            <mxRectangle x="359" y="580" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-78" value="Pastas" style="rounded=0;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="PNdbc9yCol_e83TEmmqa-77">
+          <mxGeometry x="11" y="40" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-79" value="Arquivos Word" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PNdbc9yCol_e83TEmmqa-77">
+          <mxGeometry x="11" y="100" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-80" value="Arquivos Excel" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="PNdbc9yCol_e83TEmmqa-77">
+          <mxGeometry x="11" y="160" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-81" value="Arquivos Power Point" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="PNdbc9yCol_e83TEmmqa-77">
+          <mxGeometry x="191" y="40" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-82" value="Arquivos de fotos" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="PNdbc9yCol_e83TEmmqa-77">
+          <mxGeometry x="191" y="100" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PNdbc9yCol_e83TEmmqa-84" value="Pasta com arquivos PDF&#xa;finais assinados" style="rounded=0;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="PNdbc9yCol_e83TEmmqa-77">
+          <mxGeometry x="191" y="160" width="170" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

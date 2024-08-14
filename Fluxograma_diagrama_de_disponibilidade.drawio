@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-14T19:43:35.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="iUUM-KUHOwUakN6URrz2" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-14T19:45:59.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Rpr3hGTTr4G2I2Ml9wJC" version="24.7.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="658" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxRectangle x="120" y="120" width="40" height="260" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="&lt;div&gt;Acesso ao Sistema&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Acesso à RECIM" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-23" target="dNxyNK7c78bLwvsdeMH5-24" edge="1">
@@ -43,7 +43,7 @@
         <mxCell id="gKDF8MpDz5ejKZU8xYxQ-9" value="Computador possui acesso à RECIM?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="316" y="27.5" width="110" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="&lt;div&gt;Pesquisa de&lt;/div&gt;&lt;div&gt;mercado na internet&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="&lt;div&gt;Acesso ao IP&lt;/div&gt;&lt;div&gt;do Sistema&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26" target="dNxyNK7c78bLwvsdeMH5-28" edge="1">
@@ -58,7 +58,7 @@
         <mxCell id="gKDF8MpDz5ejKZU8xYxQ-16" value="Visualizado página de login no sistema?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="316" y="27.5" width="110" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="gKDF8MpDz5ejKZU8xYxQ-45" value="&lt;div&gt;Definição de&lt;/div&gt;&lt;div&gt;&amp;nbsp;CATMAT&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="gKDF8MpDz5ejKZU8xYxQ-45" value="Login no Zabbix" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="240" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gKDF8MpDz5ejKZU8xYxQ-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="gKDF8MpDz5ejKZU8xYxQ-45" source="gKDF8MpDz5ejKZU8xYxQ-47" target="gKDF8MpDz5ejKZU8xYxQ-48" edge="1">
@@ -87,7 +87,7 @@
         <mxCell id="gKDF8MpDz5ejKZU8xYxQ-49" value="Logado no sistema?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gKDF8MpDz5ejKZU8xYxQ-45" vertex="1">
           <mxGeometry x="316" y="27.5" width="110" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="gKDF8MpDz5ejKZU8xYxQ-66" value="&lt;div&gt;Justificativa para&lt;/div&gt;não usar mediana" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="gKDF8MpDz5ejKZU8xYxQ-66" value="Acesso aos Dados" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="360" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tK9NFGsVh4mHBOd5uynP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gKDF8MpDz5ejKZU8xYxQ-66" source="gKDF8MpDz5ejKZU8xYxQ-68" target="gKDF8MpDz5ejKZU8xYxQ-69">
@@ -115,7 +115,7 @@
         <mxCell id="gKDF8MpDz5ejKZU8xYxQ-70" value="Filtro de Hosts e de período foram selecionados?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gKDF8MpDz5ejKZU8xYxQ-66" vertex="1">
           <mxGeometry x="316" y="27.5" width="110" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="&lt;div&gt;Pesquisa de&lt;/div&gt;&lt;div&gt;preços&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="&lt;div&gt;Preenchimento&lt;br&gt;&lt;/div&gt;&lt;div&gt;da Planilha&lt;br&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="480" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tK9NFGsVh4mHBOd5uynP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="gKDF8MpDz5ejKZU8xYxQ-60" target="gKDF8MpDz5ejKZU8xYxQ-90">
